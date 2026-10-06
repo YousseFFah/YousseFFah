@@ -1,5 +1,18 @@
-# 💫 About Me:
-👋 Hi, I'm Youssef.<br><br>🎓 Physics & Computer Science Student<br>🏫 Ain Shams University<br>💻 Backend Developer | Node.js<br>🛠️ Express.js | MongoDB | REST APIs<br><br>🚀 Building projects and improving my skills<br>📚 Always learning and exploring new technologies
+<div style="background-color:#0F172A; padding:25px; border-radius:15px;">
+
+<h1>💫 About Me</h1>
+
+<p>
+👋 Hi, I'm Youssef.<br><br>
+🎓 Physics & Computer Science Student<br>
+🏫 Ain Shams University<br>
+💻 Backend Developer | Node.js<br>
+🛠️ Express.js | MongoDB | REST APIs<br><br>
+🚀 Building projects and improving my skills<br>
+📚 Always learning and exploring new technologies
+</p>
+
+</div>
 
 
 ## 🌐 Socials:
