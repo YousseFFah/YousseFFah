@@ -19,9 +19,9 @@
 
 ### Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -48,11 +48,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=YousseFFah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=YousseFFah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
----
-
-[![](https://komarev.com/ghpvc/?username=YousseFFah&icon=0&color=58A6FF)](https://visitcount.itsvg.in)
