@@ -125,7 +125,7 @@ JWT-based authentication, access control and password handling.
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=35&lines=Make+it+work.+But+don't+make+it+wrong." alt="Backend developer motto" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=35&lines=Building.+Learning.+Getting+Better." alt="Building, learning, and improving" />
 
 </div>
 
