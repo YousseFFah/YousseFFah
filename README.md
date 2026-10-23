@@ -1,54 +1,167 @@
-# 💫 About Me
 
-👋 Hi, I'm **Youssef**.
+<div align="center">
 
-🎓 Physics & Computer Science Student at **Ain Shams University**  
-💻 **Backend Developer | Node.js**  
-🛠️ Express.js | MongoDB | REST APIs  
-🚀 Building projects and improving my backend skills  
-📚 Always learning and exploring new technologies
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Youssef%20Ahmed&fontSize=45&fontColor=FFFFFF"
+    width="100%"
+    alt="Youssef Ahmed - Backend Developer"
+  />
+</p>
 
+<a href="https://github.com/YousseFFah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js;Building+REST+APIs+with+Express.js;Learning%2C+Building%2C+Improving." alt="Typing SVG" />
+</a>
 
-## 🌐 Connect With Me
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ahmed-529409352)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousf.ahmed0912@gmail.com)
+<img src="https://github.com/YousseFFah.png" width="120" alt="Youssef's Profile Picture" />
 
+<br/>
 
-# 💻 Tech Stack
+<a href="https://linkedin.com/in/youssef-ahmed-529409352">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yousf.ahmed0912@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-### Backend
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Tools & Languages
+## 👨‍💻 About Me
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🎓 Physics & Computer Science student at **Ain Shams University**.
+- 💻 Interested in **Backend Development with Node.js**.
+- 🔧 Working with **Express.js, MongoDB, and REST APIs**.
+- 🚀 Building projects to improve my programming and problem-solving skills.
+- 📚 Always learning and exploring new technologies.
 
+---
 
-# 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.shion.dev/api?username=YousseFFah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### Backend Development
 
-![](https://streak-stats.demolab.com/?user=YousseFFah&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql" alt="JavaScript, Node.js, Express.js, MongoDB, MySQL" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YousseFFah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Tools & Other Technologies
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,cpp,html,css" alt="Git, GitHub, Postman, C++, HTML, CSS" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📚 Student Planner</h3>
+
+<div align="center">
+  <a href="https://student-planner-youssef.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Student Planner Live Demo" />
+  </a>
+  <a href="https://github.com/YousseFFah/student-planner">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Student Planner Source Code" />
+  </a>
+</div>
+
+A full-stack web application designed to help students organize their academic work.
+
+**Features**
+- Course, task, and assessment management.
+- Deadlines and progress tracking.
+- Monthly calendar view.
+- Arabic and English support.
+- User authentication and password recovery.
+
+**Technologies:** JavaScript, Node.js, Express.js, MongoDB, JWT.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 E-Commerce Backend</h3>
+
+<div align="center">
+  <a href="https://deployfrontend-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="E-Commerce Live Demo" />
+  </a>
+  <a href="https://github.com/ebramgoerge95/ITI-Project">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Source Code" />
+  </a>
+</div>
+
+A team backend project focused on the core functionality of an e-commerce system.
+
+**Features**
+- Products and categories management.
+- Shopping cart and order handling.
+- User authentication.
+- Payment integration using Paymob.
+
+**Technologies:** Node.js, Express.js, MongoDB, REST APIs.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YousseFFah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YousseFFah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousseFFah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YousseFFah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
 
+<img src="https://trophy.ryglcloud.net/?username=YousseFFah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="90%" alt="GitHub Trophies" />
 
-### 🔝 Top Contributed Repo
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=YousseFFah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
+
+## 🌱 Currently Focusing On
+
+- Improving my Node.js and Express.js skills.
+- Building better REST APIs.
+- Writing cleaner and more maintainable backend code.
+- Learning through practical projects.
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*Always learning. Always building. One project at a time.*
+
+<a href="https://linkedin.com/in/youssef-ahmed-529409352">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yousf.ahmed0912@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
+
+</div>
